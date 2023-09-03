@@ -1,3 +1,7 @@
-# Construindo meu Primeiro Projeto Lógico de Banco de Dados - DIO
+# Construindo meu Primeiro Projeto Lógico de Banco de Dados 
 
-Projeto de um sistema Ecommerce de banco de dados com todos os conceitos estudados com auxilio da professora.
+DESAFIO DIO.
+
+Projeto de um sistema Ecommerce utilizando o MySQL usando de base um modelo de aula.
+
+
